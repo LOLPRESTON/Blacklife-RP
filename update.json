@@ -1,5 +1,9 @@
 {
-  "latestVersion": "1.0.1",
-  "mainModUrl": "https://link-direct/BlackLife-1.0.1.jar",
-  "mainModNewName": "BlackLife-1.0.1.jar"
+  "latestVersion": "1.0.2",
+  "mainModUrl": "https://github.com/LOLPRESTON/Blacklife-RP/raw/refs/heads/main/BlackLife-1.0.2.jar",
+  "mainModNewName": "BlackLife-1.0.2.jar",
+  "changelog": [
+    "§a+ §fRezolvate cateva bug-uri",
+    "§e* §fSisteme optimizate"
+  ]
 }
